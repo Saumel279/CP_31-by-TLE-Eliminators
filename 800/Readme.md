@@ -1,1 +1,0 @@
-solution of 800 rated porblems from CP 31
