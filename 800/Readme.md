@@ -1,1 +1,0 @@
-Solution of 800 rated problems from CP 31 by TLE Eliminators
