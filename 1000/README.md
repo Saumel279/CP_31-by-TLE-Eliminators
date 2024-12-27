@@ -1,1 +1,0 @@
-Solution of 1000 rated problems form CP 31 sheet by TLE Eliminators
